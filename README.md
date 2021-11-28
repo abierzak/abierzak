@@ -1,4 +1,4 @@
 - I'm Anna
-- I'm a sprout 🌱 currently learning basics of python
+- I'm a sprout 🌱 currently learning the basics of python
 - I’m looking to collaborate on anything that has tasks for a low level typing monkey
 - 📫 abierzak@gmail
